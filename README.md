@@ -3,9 +3,7 @@
 空気を含んだような、儚く澄んだ透明感をプラスするCLIP STUDIO PAINT用カラーグレーディングフィルターです。
 9つのパラメーターで、露出、色温度、彩度、コントラストなどを調整できます。
 
-![利用イメージ_適用前→適用後_01](https://github.com/user-attachments/assets/0cdbfbb9-9ee7-4544-b3d7-4374dce0dd8f)
-
-![利用イメージ_適用前→適用後_02](https://github.com/user-attachments/assets/a3d56e20-2883-412f-93f8-697e8ecd5775)
+![利用イメージ_適用前→適用後_02](https://github.com/user-attachments/assets/f8fe9792-52de-44ac-82e8-ba8f0f9fd0ae)
 
 ## 🎨 調整パラメータ
 
@@ -33,4 +31,5 @@ https://github.com/kame404/Ethereal/releases
 4. 「プレビュー」にチェックを入れると、リアルタイムで効果を確認できます
 
 5. 「OK」ボタンをクリックして適用します
+
 
